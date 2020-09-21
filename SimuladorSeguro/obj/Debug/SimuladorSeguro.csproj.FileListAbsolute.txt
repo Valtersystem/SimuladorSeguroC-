@@ -1,0 +1,10 @@
+C:\Users\FeerC\OneDrive\SimuladorSeguro\SimuladorSeguro\bin\Debug\SimuladorSeguro.exe.config
+C:\Users\FeerC\OneDrive\SimuladorSeguro\SimuladorSeguro\bin\Debug\SimuladorSeguro.exe
+C:\Users\FeerC\OneDrive\SimuladorSeguro\SimuladorSeguro\bin\Debug\SimuladorSeguro.pdb
+C:\Users\FeerC\OneDrive\SimuladorSeguro\SimuladorSeguro\obj\Debug\SimuladorSeguro.csprojAssemblyReference.cache
+C:\Users\FeerC\OneDrive\SimuladorSeguro\SimuladorSeguro\obj\Debug\SimuladorSeguro.Form1.resources
+C:\Users\FeerC\OneDrive\SimuladorSeguro\SimuladorSeguro\obj\Debug\SimuladorSeguro.Properties.Resources.resources
+C:\Users\FeerC\OneDrive\SimuladorSeguro\SimuladorSeguro\obj\Debug\SimuladorSeguro.csproj.GenerateResource.cache
+C:\Users\FeerC\OneDrive\SimuladorSeguro\SimuladorSeguro\obj\Debug\SimuladorSeguro.csproj.CoreCompileInputs.cache
+C:\Users\FeerC\OneDrive\SimuladorSeguro\SimuladorSeguro\obj\Debug\SimuladorSeguro.exe
+C:\Users\FeerC\OneDrive\SimuladorSeguro\SimuladorSeguro\obj\Debug\SimuladorSeguro.pdb
